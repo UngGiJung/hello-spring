@@ -10,4 +10,5 @@ public class HelloSpringApplication {
 		SpringApplication.run(HelloSpringApplication.class, args);
 	}
 	//마스터 코드
+	//YS
 }
